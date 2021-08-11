@@ -1,5 +1,9 @@
 # Hi there! 👋  
 ### Follow me on this journey of wanting to learn everything but not having time for anything
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-cl%C3%A9rigo-525598217/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andreclerigo.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mrmaster__)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mrmaster__/)
 <br>
 
 <div>
@@ -7,7 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreclerigo&hide=vhdl&theme=gotham&langs_count=6&layout=compact"/>
 </div>
 
-<br>
 <br>
 
 <div>
