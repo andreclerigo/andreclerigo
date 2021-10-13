@@ -27,8 +27,8 @@
   <a href="https://github.com/andreclerigo/leci_2ano">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=andreclerigo&repo=leci_2ano&theme=react&show_owner=true"/>
   </a>
-  <a href="https://github.com/andreclerigo/andreclerigo.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreclerigo&repo=andreclerigo.github.io&theme=react&show_owner=true"/>
+  <a href="https://github.com/andreclerigo/leci_3ano">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreclerigo&repo=leci_3ano&theme=react&show_owner=true"/>
   </a>
 </div>
 
