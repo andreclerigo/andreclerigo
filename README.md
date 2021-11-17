@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=andreclerigo&style=flat&color=brightgreen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-cl%C3%A9rigo-525598217/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andreclerigo.github.io)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mrmaster__/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/andreclerigo_/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrmaster__?label=Follow)](https://twitter.com/mrmaster__)
 <br>
 
