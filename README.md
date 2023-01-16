@@ -8,36 +8,36 @@
 <br>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=andreclerigo&theme=gotham&show_icons=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreclerigo&theme=gotham&langs_count=6&layout=compact"/>
+  <img align="left" src="https://github-readme-stats-mu-gules.vercel.app/api?username=andreclerigo&theme=gotham&show_icons=true" width="420"/>
+  <img src="https://github-readme-stats-mu-gules.vercel.app/api/top-langs/?username=andreclerigo&theme=gotham&langs_count=6&layout=compact"/>
 </div>
 
 <br>
 
 <div>
   <a href="https://github.com/andreclerigo/pico-projects">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=andreclerigo&repo=pico-projects&theme=react&show_owner=true"/>
+    <img align="left" src="https://github-readme-stats-mu-gules.vercel.app/api/pin/?username=andreclerigo&repo=pico-projects&theme=react&show_owner=true"/>
   </a>
   <a href="https://github.com/learning-electronics/learning-electronics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learning-electronics&repo=learning-electronics&theme=react&show_owner=true"/>
+    <img src="https://github-readme-stats-mu-gules.vercel.app/api/pin/?username=learning-electronics&repo=learning-electronics&theme=react&show_owner=true"/>
   </a>
 </div>
 
 <div>
   <a href="https://github.com/andreclerigo/leci_2ano">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=andreclerigo&repo=leci_2ano&theme=react&show_owner=true"/>
+    <img align="left" src="https://github-readme-stats-mu-gules.vercel.app/api/pin/?username=andreclerigo&repo=leci_2ano&theme=react&show_owner=true"/>
   </a>
   <a href="https://github.com/andreclerigo/leci_3ano">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreclerigo&repo=leci_3ano&theme=react&show_owner=true"/>
+    <img src="https://github-readme-stats-mu-gules.vercel.app/api/pin/?username=andreclerigo&repo=leci_3ano&theme=react&show_owner=true"/>
   </a>
 </div>
 
 <div>
   <a href="https://github.com/andreclerigo/weather_twitterbot">
-    <img align="left" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreclerigo&repo=weather_twitterbot&theme=react&show_owner=true"/>
+    <img align="left" align="center" src="https://github-readme-stats-mu-gules.vercel.app/api/pin/?username=andreclerigo&repo=weather_twitterbot&theme=react&show_owner=true"/>
   </a>
   <a href="https://github.com/andreclerigo/cryptochecker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreclerigo&repo=cryptochecker&theme=react&show_owner=true"/>
+    <img src="https://github-readme-stats-mu-gules.vercel.app/api/pin/?username=andreclerigo&repo=cryptochecker&theme=react&show_owner=true"/>
   </a>
 </div>
 
